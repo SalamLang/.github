@@ -45,3 +45,12 @@ In Iran, Afghanistan, Azerbaijan and Tajikistan, Salâm (سلام) is used alone
     </tr>
   </table>
 </div>
+
+<hr>
+
+<div align="center">
+  <h2>🎉 Hacktoberfest Hack On Salam 🖥️</h2>
+  <a href="https://github.com/SalamLang/Salam/milestone/3">Salam Hacktoberfest</a>
+  <br>
+  <a href="https://github.com/SalamLang/Salam-Website/milestone/1">Website Hacktoberfest</a>
+</div>
