@@ -4,7 +4,7 @@ repos:
     hooks:
       - id: markdownlint
         name: markdownlint-fix
-        entry: markdownlint --fix
+        entry: markdownlint --fix --config .github/linters/.markdownlint.json
         language: node
         types: [markdown]
 
@@ -12,3 +12,4 @@ repos:
     rev: v1.37.1
     hooks:
       - id: yamllint
+        args: [--config-file=.github/linters/.yamllint.yaml]
