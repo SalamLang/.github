@@ -87,7 +87,6 @@ We have organized issues across multiple repositories. Pick the one that matches
 - **[Salam-Editor Hacktoberfest](https://github.com/SalamLang/Salam-Editor/milestone/1)** – Editor features and fixes  
 - **[Website Hacktoberfest](https://github.com/SalamLang/Salam-Website/milestone/1)** – Website improvements  
 
-
 ---
 
 ## ✅ Contribution Guidelines
