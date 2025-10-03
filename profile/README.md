@@ -48,7 +48,7 @@ In Iran, Afghanistan, Azerbaijan and Tajikistan, Salâm (سلام) is used alone
 
 <hr>
 
-# 🎉 Hacktoberfest Hack On Salam 🖥️
+## 🎉 Hacktoberfest Hack On Salam 🖥️
 
 <div align="center">
   <p>
