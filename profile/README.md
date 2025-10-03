@@ -122,6 +122,6 @@ All contributors will be:
 
 **Happy Hacking! Let's make Salam better together! 🚀**  
 
-⭐ Don’t forget to star the repositories you contribute to!  
+⭐ Don't forget to star the repositories you contribute to!  
 
 </div>
