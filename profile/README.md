@@ -7,7 +7,7 @@ A new programming language empowering developers in Persian and Arabic-speaking 
 In Iran, Afghanistan, Azerbaijan and Tajikistan, Salâm (سلام) is used alone more frequently, with occasional use of Salam-o aleykom and the more common beh salâmat (به سلامت), meaning "[go] with peace".
 
 <div align="center">
-  <h2>Management Team 👥</h2>
+  <h2>👨‍🔧 Executive Team 👥</h2>
 </div>
 
 <div align="center">
@@ -32,7 +32,7 @@ In Iran, Afghanistan, Azerbaijan and Tajikistan, Salâm (سلام) is used alone
 </div>
 
 <div align="center">
-  <h3>Developers 💾</h3>
+  <h3>Managers 🤹</h3>
   <table>
     <tr>
       <td align="center">
