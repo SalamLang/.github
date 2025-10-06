@@ -1,3 +1,3 @@
-# Salam Organization Front Page 
+# Salam Organization Front Page
 
-https://github.com/SalamLang/.github/tree/main/profile#readme
+<https://github.com/SalamLang/.github/tree/main/profile#readme>

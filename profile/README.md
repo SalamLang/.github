@@ -21,7 +21,7 @@ In Iran, Afghanistan, Azerbaijan and Tajikistan, Salâm (سلام) is used alone
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/jbampton"> 
+        <a href="https://github.com/jbampton">
           <img src="https://avatars.githubusercontent.com/u/418747?s=250&v=4" alt="John Bampton"><br>
           <strong>Co-founder, Community Leader and Scrum Master 🏢</strong><br>
           John Bampton  
