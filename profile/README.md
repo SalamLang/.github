@@ -46,25 +46,6 @@ In Iran, Afghanistan, Azerbaijan and Tajikistan, Salâm (سلام) is used alone
   </table>
 </div>
 
-<hr>
-
-## 🎉 Hacktoberfest Hack On Salam 🖥️
-
-<div align="center">
-  <p>
-    Join us for Hacktoberfest 2025! Contribute to Salam Language and help make programming accessible in Persian/Farsi.
-    <br>
-    Complete 4 quality pull requests during October and earn your Hacktoberfest rewards!
-  </p>
-</div>
-
----
-
-## 📋 Event Details
-
-**Hacktoberfest** is a month-long celebration of open source software run by DigitalOcean.  
-During the month of October, we invite open-source enthusiasts, beginners, and the wider developer community to contribute to **Salam Language** projects.
-
 ---
 
 ## 🌟 Why Contribute to Salam?
@@ -74,18 +55,6 @@ During the month of October, we invite open-source enthusiasts, beginners, and t
 - 🛠️ Build tools and features for the community  
 - 🎓 Learn and grow your skills in open source  
 - 🤝 Connect with like-minded developers  
-
----
-
-## 🎯 Project Milestones
-
-We have organized issues across multiple repositories. Pick the one that matches your interests:
-
-- **[Salam Hacktoberfest](https://github.com/SalamLang/Salam/milestone/3)** – Core language development  
-- **[Document Hacktoberfest](https://github.com/SalamLang/Salam-Document/milestone/1)** – Documentation improvements  
-- **[Organization Hacktoberfest](https://github.com/SalamLang/.github/milestone/1)** – Organization-wide enhancements  
-- **[Salam-Editor Hacktoberfest](https://github.com/SalamLang/Salam-Editor/milestone/1)** – Editor features and fixes  
-- **[Website Hacktoberfest](https://github.com/SalamLang/Salam-Website/milestone/1)** – Website improvements  
 
 ---
 
@@ -112,7 +81,6 @@ We have organized issues across multiple repositories. Pick the one that matches
 All contributors will be:
 
 - 🏅 Acknowledged in our contributors list  
-- 🎉 Eligible for Hacktoberfest rewards (per official rules)  
 - 🌍 Part of making programming more accessible globally  
 
 ---
