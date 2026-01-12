@@ -61,7 +61,6 @@ In Iran, Afghanistan, Azerbaijan and Tajikistan, Salâm (سلام) is used alone
 
 ## 📞 Need Help?
 
-- 💬 Join our community on [Discord](https://discord.gg/gFP2sbQP4x)  
 - 📧 Reach out to maintainers  
 - 📖 Check our contributing guidelines  
 - 🐛 Report issues you encounter  
