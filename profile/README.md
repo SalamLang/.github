@@ -7,7 +7,7 @@ A new programming language empowering developers in Persian and Arabic-speaking 
 In Iran, Afghanistan, Azerbaijan and Tajikistan, Salâm (سلام) is used alone more frequently, with occasional use of Salam-o aleykom and the more common beh salâmat (به سلامت), meaning "[go] with peace".
 
 <div align="center">
-  <h2>👨‍🔧 Maintainers 👥</h2>
+  <h2>👨‍🔧 Team Salam 👥</h2>
 </div>
 
 <div align="center">
