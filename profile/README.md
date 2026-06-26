@@ -29,11 +29,18 @@ In Iran, Afghanistan, Azerbaijan and Tajikistan, Salâm (سلام) is used alone
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center">
         <a href="https://github.com/BDadmehr0">
           <img src="https://avatars.githubusercontent.com/u/134191240?v=4&s=100" alt="Dadmehr" title="Dadmehr" /><br>
-          <strong>Open source maintainer</strong><br>
+          <strong>Maintainer 🖱️</strong><br>
           Dadmehr
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/anufdo">
+          <img src="https://avatars.githubusercontent.com/u/8244245?v=4&s=100" alt="Anuradha Fernando" title="Anuradha Fernando" /><br>
+          <strong>Discord Moderator 🖥️</strong><br>
+          Anuradha Fernando
         </a>
       </td>
     </tr>
