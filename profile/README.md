@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Salam Language</h1>
+  <h1>Salam Programming Language</h1>
 </div>
 
 <div align="center">
@@ -45,8 +45,6 @@
 
 ---
 
-# Salam Programming Language
-
 Welcome to **Salam** — a general-purpose and systems programming language designed for efficient software development, featuring a built-in domain-specific language (DSL) for web development. 
 
 Our goal is to build an open, supportive, and fostering community where developers can collaborate and grow together.
@@ -64,7 +62,8 @@ Get syntax highlighting and tooling support directly in your editor:
 
 * **Max Base** — Co-founder & CTO
 * **John Bampton** — Co-founder & Scrum Master
-* **Dadmehr** — Open Source Maintainer
+* **Dadmehr** — Maintainer
+* **Anuradha Fernando** - Discord Moderator
 
 ---
 
