@@ -60,7 +60,7 @@ Get syntax highlighting and tooling support directly in your editor:
 
 ## 👨‍🔧 Core Team
 
-* **Max Base** — Co-founder & CTO
+* **Seyyed Ali Mohammadiyeh (Max Base)** — Co-founder & CTO
 * **John Bampton** — Co-founder & Scrum Master
 * **Dadmehr** — Maintainer
 * **Anuradha Fernando** - Discord Moderator
