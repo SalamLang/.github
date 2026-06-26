@@ -2,10 +2,6 @@
   <h1>Salam Language</h1>
 </div>
 
-A new programming language empowering developers in Persian and Arabic-speaking communities. Unlock the joy of coding—accessible, intuitive, and culturally resonant.
-
-In Iran, Afghanistan, Azerbaijan and Tajikistan, Salâm (سلام) is used alone more frequently, with occasional use of Salam-o aleykom and the more common beh salâmat (به سلامت), meaning "[go] with peace".
-
 <div align="center">
   <h2>👨‍🔧 Team Salam 👥</h2>
 </div>
@@ -49,46 +45,33 @@ In Iran, Afghanistan, Azerbaijan and Tajikistan, Salâm (سلام) is used alone
 
 ---
 
-## 🌟 Why Contribute to Salam?
+# Salam Programming Language
 
-- 🌍 Help make programming accessible to Persian/Farsi speakers  
-- 📚 Improve documentation and learning resources  
-- 🛠️ Build tools and features for the community  
-- 🎓 Learn and grow your skills in open source  
-- 🤝 Connect with like-minded developers  
+Welcome to **Salam** — a general-purpose and systems programming language designed for efficient software development, featuring a built-in domain-specific language (DSL) for web development. 
+
+Our goal is to build an open, supportive, and fostering community where developers can collaborate and grow together.
 
 ---
 
-## ✅ Contribution Guidelines
+## 🛠️ Tooling & Extensions
 
-- **Quality over Quantity** – Focus on meaningful contributions  
-- **Follow Standards** – Adhere to project coding conventions  
-- **Be Respectful** – Maintain a positive and inclusive environment  
-- **One Issue per PR** – Keep pull requests focused and manageable  
+Get syntax highlighting and tooling support directly in your editor:
+* **VS Code:** Download the official [Salam Language Extension](https://marketplace.visualstudio.com/items?itemName=salamlanguage.salam-programming-language) from the Visual Studio Marketplace.
 
 ---
 
-## 📞 Need Help?
+## 👨‍🔧 Core Team
 
-- 📧 Reach out to maintainers  
-- 📖 Check our contributing guidelines  
-- 🐛 Report issues you encounter  
-
----
-
-## 🎁 Recognition
-
-All contributors will be:
-
-- 🏅 Acknowledged in our contributors list  
-- 🌍 Part of making programming more accessible globally  
+* **Max Base** — Co-founder & CTO
+* **John Bampton** — Co-founder & Scrum Master
+* **Dadmehr** — Open Source Maintainer
 
 ---
 
-<div align="center">
+## 🤝 Join the Community
 
-**Happy Hacking! Let's make Salam better together! 🚀**  
+Salam is entirely open source, and we welcome contributions of all kinds. Whether you are fixing bugs, improving documentation, or proposing new features, your help makes the project better for everyone.
 
-⭐ Don't forget to star the repositories you contribute to!  
-
-</div>
+* **Contribute:** Check out our open issues or submit a pull request.
+* **Connect:** Use GitHub Discussions to share ideas and ask questions.
+* **Support:** Star our repositories to help spread the word!
