@@ -13,7 +13,7 @@
         <a href="https://github.com/BaseMax">
           <img src="https://avatars.githubusercontent.com/u/2658040?s=200&v=4" alt="Max Base"><br>
           <strong>Co-founder and CTO 💻</strong><br>
-          Max Base  
+          Seyyed Ali Mohammadiyeh (Max Base)  
         </a>
       </td>
       <td align="center">
