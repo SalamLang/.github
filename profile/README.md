@@ -19,14 +19,14 @@
     <tr>
       <td align="center">
         <a href="https://github.com/BaseMax">
-          <img src="https://avatars.githubusercontent.com/u/2658040?s=200&v=4" alt="Max Base"><br>
+          <img src="https://avatars.githubusercontent.com/u/2658040?s=225&v=4" alt="Max Base"><br>
           <strong>Co-founder and CTO 💻</strong><br>
           Seyyed Ali Mohammadiyeh (Max Base)  
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/jbampton">
-          <img src="https://avatars.githubusercontent.com/u/418747?s=200&v=4" alt="John Bampton"><br>
+          <img src="https://avatars.githubusercontent.com/u/418747?s=225&v=4" alt="John Bampton"><br>
           <strong>Co-founder and Scrum Master 🏢</strong><br>
           John Bampton  
         </a>
@@ -35,7 +35,7 @@
     <tr>
       <td colspan="2" align="center">
         <a href="https://github.com/BDadmehr0">
-          <img src="https://avatars.githubusercontent.com/u/134191240?v=4&s=100" alt="Dadmehr" title="Dadmehr"><br>
+          <img src="https://avatars.githubusercontent.com/u/134191240?v=4&s=150" alt="Dadmehr" title="Dadmehr"><br>
           <strong>Maintainer 🖱️</strong><br>
           Dadmehr
         </a>
@@ -44,14 +44,14 @@
     <tr>  
       <td align="center">
         <a href="https://github.com/anufdo">
-          <img src="https://avatars.githubusercontent.com/u/8244245?v=4&s=100" alt="Anuradha Fernando" title="Anuradha Fernando"><br>
+          <img src="https://avatars.githubusercontent.com/u/8244245?v=4&s=75" alt="Anuradha Fernando" title="Anuradha Fernando"><br>
           <strong>Discord Moderator 🖥️</strong><br>
           Anuradha Fernando
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/ayushrana182">
-          <img src="https://avatars.githubusercontent.com/u/43984189?v=4&s=100" alt="Ayush Rana" title="Ayush Rana"><br>
+          <img src="https://avatars.githubusercontent.com/u/43984189?v=4&s=75" alt="Ayush Rana" title="Ayush Rana"><br>
           <strong>Discord Moderator ⌨️</strong><br>
           Ayush Rana
         </a>
