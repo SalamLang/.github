@@ -53,8 +53,9 @@ Our goal is to build an open, supportive, and fostering community where develope
 
 ## 🛠️ Tooling & Extensions
 
-Get syntax highlighting and tooling support directly in your editor:
-* **VS Code:** Download the official [Salam Language Extension](https://marketplace.visualstudio.com/items?itemName=salamlanguage.salam-programming-language) from the Visual Studio Marketplace.
+**[Salam Online Playground](https://salamlang.github.io/Salam/)** – An interactive, in-browser sandbox for compiling, testing, and experimenting with native Salam code and DSLs directly in the browser without installing the toolchain locally.
+
+Get syntax highlighting and tooling support directly in your **VS Code:** Download the official [Salam Language Extension](https://marketplace.visualstudio.com/items?itemName=salamlanguage.salam-programming-language) from the Visual Studio Marketplace.
 
 ---
 
