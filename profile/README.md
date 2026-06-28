@@ -63,7 +63,7 @@
 
 ---
 
-Welcome to **Salam** — a general-purpose and systems programming language designed for efficient software development, featuring a built-in domain-specific language (DSL) for web development. 
+Welcome to **Salam** — a general-purpose and systems programming language designed for efficient software development, featuring a built-in domain-specific language (DSL) for web development.
 
 Our goal is to build an open, supportive, and fostering community where developers can collaborate and grow together.
 
