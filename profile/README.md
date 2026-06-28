@@ -82,6 +82,7 @@ Get syntax highlighting and tooling support directly in your **VS Code:** Downlo
 * **John Bampton** — Co-founder & Scrum Master
 * **Dadmehr** — Maintainer
 * **Anuradha Fernando** - Discord Moderator
+* **Ayush Rana** - Discord Moderator
 
 ---
 
