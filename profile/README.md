@@ -3,6 +3,14 @@
 </div>
 
 <div align="center">
+
+[![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/HfY3QHDPdv)](https://discord.gg/HfY3QHDPdv)
+[![GitHub Release](https://img.shields.io/github/v/release/salamlang/salam?style=for-the-badge&color=007ACC)](https://github.com/SalamLang/Salam/releases)
+[![Salam Programming Language Playground](https://img.shields.io/badge/Salam-Playground-1A1A1A?style=for-the-badge&labelColor=333333&color=00FFCC)](https://salamlang.github.io/Salam/)
+
+</div>
+
+<div align="center">
   <h2>👨‍🔧 Team Salam 👥</h2>
 </div>
 
@@ -25,18 +33,27 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td colspan="2" align="center">
         <a href="https://github.com/BDadmehr0">
-          <img src="https://avatars.githubusercontent.com/u/134191240?v=4&s=100" alt="Dadmehr" title="Dadmehr" /><br>
+          <img src="https://avatars.githubusercontent.com/u/134191240?v=4&s=100" alt="Dadmehr" title="Dadmehr"><br>
           <strong>Maintainer 🖱️</strong><br>
           Dadmehr
         </a>
       </td>
+    </tr>
+    <tr>  
       <td align="center">
         <a href="https://github.com/anufdo">
-          <img src="https://avatars.githubusercontent.com/u/8244245?v=4&s=100" alt="Anuradha Fernando" title="Anuradha Fernando" /><br>
+          <img src="https://avatars.githubusercontent.com/u/8244245?v=4&s=100" alt="Anuradha Fernando" title="Anuradha Fernando"><br>
           <strong>Discord Moderator 🖥️</strong><br>
           Anuradha Fernando
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ayushrana182">
+          <img src="https://avatars.githubusercontent.com/u/43984189?v=4&s=100" alt="Ayush Rana" title="Ayush Rana"><br>
+          <strong>Discord Moderator ⌨️</strong><br>
+          Ayush Rana
         </a>
       </td>
     </tr>
