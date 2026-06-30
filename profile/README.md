@@ -8,7 +8,7 @@
 [![GitHub Release](https://img.shields.io/github/v/release/salamlang/salam?style=for-the-badge&color=007ACC)](https://github.com/SalamLang/Salam/releases)
 [![Salam Programming Language Playground](https://img.shields.io/badge/Salam-Playground-1A1A1A?style=for-the-badge&labelColor=333333&color=00FFCC)](https://salamlang.github.io/Salam/)
 
-[![Project Board](https://img.shields.io/badge/Salam-Project_Board-FF5C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/SalamLang/projects)
+[![Project Board](https://img.shields.io/badge/Salam-Project_Board-FF5C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/SalamLang/projects/1)
 [![Milestones](https://img.shields.io/badge/Salam-Milestones-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SalamLang/Salam/milestones)
 
 </div>
