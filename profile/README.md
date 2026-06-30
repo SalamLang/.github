@@ -13,6 +13,8 @@
 
 ---
 
+### Log into GitHub to access the links below
+
 [![⚡ Salam Open Sprints](https://img.shields.io/badge/%E2%9A%A1%20Salam-Open_Sprints-FF4D8D?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED)](https://github.com/SalamLang/Salam/issues?q=is%3Aissue%20state%3Aopen%20field.Effort%3A%22Low%22)
 
 **Unfinished lightweight tickets driving the SalamLang mission.** Jump in with minimal lift to build accessible, inclusive coding experiences.
