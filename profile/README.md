@@ -11,9 +11,13 @@
 [![Project Board](https://img.shields.io/badge/Salam-Project_Board-FF5C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/SalamLang/projects/1)
 [![Milestones](https://img.shields.io/badge/Salam-Milestones-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SalamLang/Salam/milestones)
 
+---
+
 [![⚡ Salam Open Sprints](https://img.shields.io/badge/%E2%9A%A1%20Salam-Open_Sprints-FF4D8D?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED)](https://github.com/SalamLang/Salam/issues?q=is%3Aissue%20state%3Aopen%20field.Effort%3A%22Low%22)
 
 **Unfinished lightweight tickets driving the SalamLang mission.** Jump in with minimal lift to build accessible, inclusive coding experiences.
+
+---
 
 </div>
 
