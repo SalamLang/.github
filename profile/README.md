@@ -40,7 +40,7 @@
       <td align="center">
         <a href="https://github.com/jbampton">
           <img src="https://avatars.githubusercontent.com/u/418747?s=225&v=4" alt="John Bampton"><br>
-          <strong>Co-founder and Scrum Master 🏢</strong><br>
+          <strong>Co-founder and Systems Architect 🏢</strong><br>
           John Bampton  
         </a>
       </td>
