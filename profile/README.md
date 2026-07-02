@@ -39,7 +39,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/jbampton">
-          <img src="https://avatars.githubusercontent.com/u/418747?v=4&s=225" alt="John Bampton"><br>
+          <img src="https://avatars.githubusercontent.com/u/418747?v=4&s=225" alt="John Bampton" title="John Bampton"><br>
           <strong>Co-founder and Systems Architect 🏢</strong><br>
           John Bampton  
         </a>
