@@ -39,7 +39,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/jbampton">
-          <img src="https://avatars.githubusercontent.com/u/418747?s=225&v=4" alt="John Bampton"><br>
+          <img src="https://avatars.githubusercontent.com/u/418747?v=4&s=225" alt="John Bampton" title="John Bampton"><br>
           <strong>Co-founder and Systems Architect 🏢</strong><br>
           John Bampton  
         </a>
@@ -49,22 +49,38 @@
       <td colspan="2" align="center">
         <a href="https://github.com/BDadmehr0">
           <img src="https://avatars.githubusercontent.com/u/134191240?v=4&s=150" alt="Dadmehr" title="Dadmehr"><br>
-          <strong>Maintainer 🖱️</strong><br>
+          <strong>Maintainer 🏗️</strong><br>
           Dadmehr
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Uiarshi">
+          <img src="https://avatars.githubusercontent.com/u/133250118?v=4&s=100" alt="UIarshi" title="UIarshi"><br>
+          <strong>Graphic Designer 🎨</strong><br>
+          UIarshi
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/30alk">
+          <img src="https://avatars.githubusercontent.com/u/69651018?v=4&s=100" alt="Mojtaba Ebrahimi" title="Mojtaba Ebrahimi"><br>
+          <strong>Book Reviewer 📖</strong><br>
+          Mojtaba Ebrahimi
         </a>
       </td>
     </tr>
     <tr>  
       <td align="center">
         <a href="https://github.com/anufdo">
-          <img src="https://avatars.githubusercontent.com/u/8244245?v=4&s=75" alt="Anuradha Fernando" title="Anuradha Fernando"><br>
+          <img src="https://avatars.githubusercontent.com/u/8244245?v=4&s=55" alt="Anuradha Fernando" title="Anuradha Fernando"><br>
           <strong>Discord Moderator 🖥️</strong><br>
           Anuradha Fernando
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/ayushrana182">
-          <img src="https://avatars.githubusercontent.com/u/43984189?v=4&s=75" alt="Ayush Rana" title="Ayush Rana"><br>
+          <img src="https://avatars.githubusercontent.com/u/43984189?v=4&s=55" alt="Ayush Rana" title="Ayush Rana"><br>
           <strong>Discord Moderator ⌨️</strong><br>
           Ayush Rana
         </a>
