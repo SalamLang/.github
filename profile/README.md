@@ -37,7 +37,7 @@
           Seyyed Ali Mohammadiyeh (Max Base)  
         </a>
       </td>
-      <td align="center">
+      <td align="center" colspan="2">
         <a href="https://github.com/jbampton">
           <img src="https://avatars.githubusercontent.com/u/418747?v=4&s=225" alt="John Bampton" title="John Bampton"><br>
           <strong>Co-founder and Systems Architect 🏢</strong><br>
@@ -46,7 +46,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td colspan="3" align="center">
         <a href="https://github.com/BDadmehr0">
           <img src="https://avatars.githubusercontent.com/u/134191240?v=4&s=150" alt="Dadmehr" title="Dadmehr"><br>
           <strong>Maintainer & Telegram Moderator 🏗️</strong><br>
@@ -69,6 +69,13 @@
           Mojtaba Ebrahimi
         </a>
       </td>
+      <td align="center">
+        <a href="https://github.com/yOOs-dz">
+          <img src="https://avatars.githubusercontent.com/u/74448776?v=4&s=100" alt="Youcef Mokrane" title="Youcef Mokrane"><br>
+          <strong>Arabic Translator 📓</strong><br>
+          Youcef Mokrane
+        </a>
+      </td>
     </tr>
     <tr>  
       <td align="center">
@@ -85,13 +92,11 @@
           Ayush Rana
         </a>
       </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://github.com/yOOs-dz">
-          <img src="https://avatars.githubusercontent.com/u/74448776?v=4&s=75" alt="Youcef Mokrane" title="Youcef Mokrane"><br>
-          <strong>Arabic Translator 📓</strong><br>
-          Youcef Mokrane
+      <td align="center">
+        <a href="https://github.com/MohammadLotfiA">
+          <img src="https://avatars.githubusercontent.com/u/87372623?v=4&s=55" alt="Mohammad Lotfi Akbarabadi" title="Mohammad Lotfi Akbarabadi"><br>
+          <strong>Telegram Moderator 📐</strong><br>
+          Mohammad Lotfi Akbarabadi 
         </a>
       </td>
     </tr>
