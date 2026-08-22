@@ -49,7 +49,7 @@
       <td colspan="2" align="center">
         <a href="https://github.com/BDadmehr0">
           <img src="https://avatars.githubusercontent.com/u/134191240?v=4&s=150" alt="Dadmehr" title="Dadmehr"><br>
-          <strong>Maintainer 🏗️</strong><br>
+          <strong>Maintainer & Telegram Moderator 🏗️</strong><br>
           Dadmehr
         </a>
       </td>
