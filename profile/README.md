@@ -83,7 +83,7 @@
       <td align="center">
         <a href="https://github.com/anufdo">
           <img src="https://avatars.githubusercontent.com/u/8244245?v=4&s=55" alt="Anuradha Fernando" title="Anuradha Fernando"><br>
-          <strong>Discord Moderator 🖥️</strong><br>
+          <strong>Discord & Telegram Moderator 🖥️</strong><br>
           Anuradha Fernando
         </a>
       </td>
