@@ -117,7 +117,7 @@ Get syntax highlighting and tooling support directly in your **VS Code:** Downlo
 ## 👨‍🔧 Core Team
 
 * **Seyyed Ali Mohammadiyeh (Max Base)** — Co-founder & CTO
-* **John Bampton** — Co-founder & Scrum Master
+* **John Bampton** — Co-founder, Scrum Master & Team Leader
 * **Dadmehr** — Maintainer
 * **Anuradha Fernando** — Discord Moderator
 * **Ayush Rana** — Discord Moderator
