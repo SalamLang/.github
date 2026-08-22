@@ -70,15 +70,6 @@
         </a>
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://github.com/yOOs-dz">
-          <img src="https://avatars.githubusercontent.com/u/74448776?v=4&s=75" alt="Youcef Mokrane" title="Youcef Mokrane"><br>
-          <strong>Arabic Translator 📓</strong><br>
-          Youcef Mokrane
-        </a>
-      </td>
-    </tr>
     <tr>  
       <td align="center">
         <a href="https://github.com/anufdo">
@@ -92,6 +83,15 @@
           <img src="https://avatars.githubusercontent.com/u/43984189?v=4&s=55" alt="Ayush Rana" title="Ayush Rana"><br>
           <strong>Discord Moderator ⌨️</strong><br>
           Ayush Rana
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/yOOs-dz">
+          <img src="https://avatars.githubusercontent.com/u/74448776?v=4&s=75" alt="Youcef Mokrane" title="Youcef Mokrane"><br>
+          <strong>Arabic Translator 📓</strong><br>
+          Youcef Mokrane
         </a>
       </td>
     </tr>
