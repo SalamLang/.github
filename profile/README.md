@@ -123,9 +123,13 @@ Get syntax highlighting and tooling support directly in your **VS Code:** Downlo
 
 * **Seyyed Ali Mohammadiyeh (Max Base)** — Co-founder & CTO
 * **John Bampton** — Co-founder, Scrum Master & Team Leader
-* **Dadmehr** — Maintainer
-* **Anuradha Fernando** — Discord Moderator
+* **Dadmehr** — Maintainer & Telegram Moderator
+* **UIarshi** — Graphic Designer
+* **Mojtaba Ebrahimi** — Book Reviewer
+* **Youcef Mokrane** — Arabic Translator
+* **Anuradha Fernando** — Discord & Telegram Moderator
 * **Ayush Rana** — Discord Moderator
+* **Mohammad Lotfi Akbarabadi** — Telegram Moderator
 
 ---
 
