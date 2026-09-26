@@ -127,7 +127,7 @@ Get syntax highlighting and tooling support directly in your **VS Code:** Downlo
 * **UIarshi** — Graphic Designer
 * **Mojtaba Ebrahimi** — Book Reviewer
 * **Youcef Mokrane** — Arabic Translator
-* **Anuradha Fernando** — Discord Moderator
+* **Anuradha Fernando** — Discord & Telegram Moderator
 * **Ayush Rana** — Discord Moderator
 * **Mohammad Lotfi Akbarabadi** — Telegram Moderator
 
