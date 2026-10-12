@@ -1,0 +1,24 @@
+documentation:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "**/*.md"
+          - "docs/**"
+
+yaml:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "**/*.yml"
+          - "**/*.yaml"
+
+markdown:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "**/*.md"
+
+tests:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "**/test/**"
+          - "**/tests/**"
+          - "**/*.test.*"
+          - "**/*.spec.*"
