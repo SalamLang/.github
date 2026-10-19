@@ -1,25 +1,31 @@
 <div align="center">
-  <h1>Salam Programming Language</h1>
+
+  <img width="140" src="https://raw.githubusercontent.com/SalamLang/Salam/main/design/logo/logo-box.svg" alt="Salam Programming Language">
+
+  # Salam Programming Language
+
+  **A programming language for clear, capable, and inclusive software development.**
+
+  Salam is a statically typed, compiled general-purpose language with English and Persian keywords. Its built-in `layout:` DSL turns Salam source into HTML, CSS, and JavaScript.
 </div>
 
 <div align="center">
 
-[![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/HfY3QHDPdv)](https://discord.gg/HfY3QHDPdv)
 [![GitHub Release](https://img.shields.io/github/v/release/salamlang/salam?style=for-the-badge&color=007ACC)](https://github.com/SalamLang/Salam/releases)
-[![Salam Programming Language Playground](https://img.shields.io/badge/Salam-Playground-1A1A1A?style=for-the-badge&labelColor=333333&color=00FFCC)](https://salamlang.github.io/Salam/)
+[![Compiler Build and Release](https://github.com/SalamLang/Salam/actions/workflows/compiler-release.yml/badge.svg)](https://github.com/SalamLang/Salam/actions/workflows/compiler-release.yml)
+[![VS Code Marketplace Version](https://vsmarketplacebadges.dev/version/salamlanguage.salam-programming-language.svg?label=VS%20Code%20extension)](https://marketplace.visualstudio.com/items?itemName=salamlanguage.salam-programming-language)
+
+[![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/HfY3QHDPdv)](https://discord.gg/HfY3QHDPdv)
+[![Salam Programming Language Playground](https://img.shields.io/badge/Salam-Playground-1A1A1A?style=for-the-badge&labelColor=333333&color=00FFCC)](https://editor.salamlang.ir/)
 
 [![Project Board](https://img.shields.io/badge/Salam-Project_Board-FF5C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/SalamLang/projects/1)
 [![Milestones](https://img.shields.io/badge/Salam-Milestones-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SalamLang/Salam/milestones)
 
----
-
-### Log in to GitHub to access the links below
-
 [![⚡ Salam Open Sprints](https://img.shields.io/badge/%E2%9A%A1%20Salam-Open_Sprints-FF4D8D?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED)](https://github.com/SalamLang/Salam/issues?q=is%3Aissue%20state%3Aopen%20field.Effort%3A%22Low%22)
 
-**Unfinished lightweight tickets driving the SalamLang mission.** Jump in with minimal lift to build accessible, inclusive coding experiences.
+<br>
 
----
+[Get started](https://github.com/SalamLang/Salam#quick-installing) · [English docs](https://salamlang.github.io/Salam/) · [فارسی](https://www.salamlang.ir/) · [Try the playground](https://editor.salamlang.ir/) · [Source code](https://github.com/SalamLang/Salam)
 
 </div>
 
@@ -105,19 +111,41 @@
 
 ---
 
-Welcome to **Salam** — a general-purpose and systems programming language designed for efficient software development, featuring a built-in domain-specific language (DSL) for web development.
+## ✨ What you can build with Salam
 
-Our goal is to build an open, supportive, and fostering community where developers can collaborate and grow together.
+- **Native programs:** Compile general-purpose Salam code to native executables.
+- **Web pages:** Write `layout:` blocks that compile to HTML, CSS, and JavaScript.
+- **English or Persian:** Use either supported keyword set.
+- **Cross-compile:** Use the LLVM backend for supported target platforms, including Windows and WebAssembly.
+
+Try Salam without installing anything in the [online playground](https://editor.salamlang.ir/), or follow the [installation guide](https://github.com/SalamLang/Salam#quick-installing) to set up the compiler.
+
+```salam
+func main:
+    println "Hello, World!"
+end
+```
+
+## 🧰 Tools and resources
+
+| Resource | What it offers |
+| --- | --- |
+| [English documentation](https://salamlang.github.io/Salam/) | Language guides, tutorials, and project documentation |
+| [فارسی](https://www.salamlang.ir/) | Salam in Persian |
+| [Online playground](https://editor.salamlang.ir/) | Experiment with Salam in your browser |
+| [VS Code extension](https://marketplace.visualstudio.com/items?itemName=salamlanguage.salam-programming-language) | Syntax highlighting and language tooling |
+| [Other editor integrations](https://github.com/SalamLang/Salam/tree/main/extensions) | Support for Vim, Emacs, JetBrains IDEs, and more |
+| [Releases](https://github.com/SalamLang/Salam/releases) | Compiler downloads and release notes |
 
 ---
 
-## 🛠️ Tooling & Extensions
+## 🤝 Get involved
 
-**[Salam Online Playground](https://salamlang.github.io/Salam/)** – An interactive, in-browser sandbox for compiling, testing, and experimenting with native Salam code and DSLs directly in the browser without installing the toolchain locally.
+Salam is open source, and contributions are welcome—from code and documentation to translations, design, and community support.
 
-Get syntax highlighting and tooling support directly in your **VS Code:** Download the official [Salam Language Extension](https://marketplace.visualstudio.com/items?itemName=salamlanguage.salam-programming-language) from the Visual Studio Marketplace.
-
----
+- [Browse open issues](https://github.com/SalamLang/Salam/issues) or [join the project board](https://github.com/orgs/SalamLang/projects/1).
+- [Join the Discord community](https://discord.gg/HfY3QHDPdv) or [start a GitHub discussion](https://github.com/SalamLang/Salam/discussions).
+- [Explore milestones](https://github.com/SalamLang/Salam/milestones), contribute a pull request, or star the project.
 
 ## 👨‍🔧 Core Team
 
@@ -130,13 +158,3 @@ Get syntax highlighting and tooling support directly in your **VS Code:** Downlo
 * **Anuradha Fernando** — Discord & Telegram Moderator
 * **Ayush Rana** — Discord Moderator
 * **Mohammad Lotfi Akbarabadi** — Telegram Moderator
-
----
-
-## 🤝 Join the Community
-
-Salam is entirely open source, and we welcome contributions of all kinds. Whether you are fixing bugs, improving documentation, or proposing new features, your help makes the project better for everyone.
-
-* **Contribute:** Check out our open issues or submit a pull request.
-* **Connect:** Use GitHub Discussions to share ideas and ask questions.
-* **Support:** Star our repositories to help spread the word!
