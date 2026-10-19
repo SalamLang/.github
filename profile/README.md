@@ -15,6 +15,14 @@
 [![Compiler Build and Release](https://github.com/SalamLang/Salam/actions/workflows/compiler-release.yml/badge.svg)](https://github.com/SalamLang/Salam/actions/workflows/compiler-release.yml)
 [![VS Code Marketplace Version](https://vsmarketplacebadges.dev/version/salamlanguage.salam-programming-language.svg?label=VS%20Code%20extension)](https://marketplace.visualstudio.com/items?itemName=salamlanguage.salam-programming-language)
 
+[![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/HfY3QHDPdv)](https://discord.gg/HfY3QHDPdv)
+[![Salam Programming Language Playground](https://img.shields.io/badge/Salam-Playground-1A1A1A?style=for-the-badge&labelColor=333333&color=00FFCC)](https://editor.salamlang.ir/)
+
+[![Project Board](https://img.shields.io/badge/Salam-Project_Board-FF5C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/SalamLang/projects/1)
+[![Milestones](https://img.shields.io/badge/Salam-Milestones-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SalamLang/Salam/milestones)
+
+[![⚡ Salam Open Sprints](https://img.shields.io/badge/%E2%9A%A1%20Salam-Open_Sprints-FF4D8D?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED)](https://github.com/SalamLang/Salam/issues?q=is%3Aissue%20state%3Aopen%20field.Effort%3A%22Low%22)
+
 <br>
 
 [Get started](https://github.com/SalamLang/Salam#quick-installing) · [English docs](https://salamlang.github.io/Salam/) · [فارسی](https://www.salamlang.ir/) · [Try the playground](https://editor.salamlang.ir/) · [Source code](https://github.com/SalamLang/Salam)
